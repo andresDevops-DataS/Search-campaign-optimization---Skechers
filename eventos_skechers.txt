@@ -1,0 +1,26 @@
+eventos_skechers = [
+    {"evento": "Día del Padre", "inicio": date(2021, 6, 20), "fin": date(2021, 6, 20)},
+    {"evento": "Día del Padre", "inicio": date(2022, 6, 19), "fin": date(2022, 6, 19)},
+    {"evento": "Día del Padre", "inicio": date(2023, 6, 18), "fin": date(2023, 6, 18)},
+    {"evento": "Día del Padre", "inicio": date(2024, 6, 16), "fin": date(2024, 6, 16)},
+
+    {"evento": "Día del Niño", "inicio": date(2021, 8, 8), "fin": date(2021, 8, 8)},
+    {"evento": "Día del Niño", "inicio": date(2022, 8, 7), "fin": date(2022, 8, 7)},
+    {"evento": "Día del Niño", "inicio": date(2023, 8, 13), "fin": date(2023, 8, 13)},
+    {"evento": "Día del Niño", "inicio": date(2024, 8, 11), "fin": date(2024, 8, 11)},
+
+    {"evento": "Fiestas Patrias", "inicio": date(2021, 9, 18), "fin": date(2021, 9, 19)},
+    {"evento": "Fiestas Patrias", "inicio": date(2022, 9, 18), "fin": date(2022, 9, 19)},
+    {"evento": "Fiestas Patrias", "inicio": date(2023, 9, 18), "fin": date(2023, 9, 19)},
+    {"evento": "Fiestas Patrias", "inicio": date(2024, 9, 18), "fin": date(2024, 9, 19)},
+
+    {"evento": "Cyber Monday", "inicio": date(2021, 10, 4), "fin": date(2021, 10, 6)},
+    {"evento": "Cyber Monday", "inicio": date(2022, 10, 3), "fin": date(2022, 10, 5)},
+    {"evento": "Cyber Monday", "inicio": date(2023, 10, 2), "fin": date(2023, 10, 4)},
+    {"evento": "Cyber Monday", "inicio": date(2024, 9, 30), "fin": date(2024, 10, 2)},
+
+    {"evento": "Black Friday", "inicio": date(2021, 11, 26), "fin": date(2021, 11, 26)},
+    {"evento": "Black Friday", "inicio": date(2022, 11, 25), "fin": date(2022, 11, 25)},
+    {"evento": "Black Friday", "inicio": date(2023, 11, 24), "fin": date(2023, 11, 24)},
+    {"evento": "Black Friday", "inicio": date(2024, 11, 29), "fin": date(2024, 11, 29)},
+]
